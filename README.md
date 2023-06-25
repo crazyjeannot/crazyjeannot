@@ -1,4 +1,5 @@
-- Hi there 👋, My name is Jean Barré, I'm a PhD Student at [ENS](https://www.ens.psl.eu/) & [LATTICE](https://www.lattice.cnrs.fr/) lab ([profile](https://odhn.ens.psl.eu/en/people/jean-barre)).
+- Hi there 👋, My name is Jean Barré, I'm a PhD Student at [ENS](https://www.ens.psl.eu/) & [LATTICE](https://www.lattice.cnrs.fr/) lab. 
 - I’m interested in Literary History, Natural Language Processing, Machine learning, Stylometry and more...
 - I'm implementing computationnal stuff to model the notion of literary Canon in large literary corpora.
-- 📫 You can reach me by email academic (jean.barre@ens.psl.eu), personal (jeanbarre@proton.me) or on [Twitter](https://twitter.com/crazyjeannot)
+- 📫 You can reach me by email academic (jean.barre@ens.psl.eu), personal (jeanbarre@proton.me) or on [Twitter](https://twitter.com/crazyjeannot).
+- Check my personal github website ([here](https://crazyjeannot.github.io/)) !
