@@ -4,4 +4,4 @@ I'm Jean Barré, a PhD student in computational literary studies at [École Norm
 - I’m interested in Literary History, Natural Language Processing, Machine learning, Stylometry and more...
 - I'm trying to operationalize literary theory concepts (Canonicity, Subgenres, Literary Variability) and model them in large literary corpora.
 - 📫 Feel free to reach out by email - jean.barre [at] ens.psl.eu -, or [Bluesky](https://bsky.app/profile/jbarre.bsky.social).
-- Check my cv <a href="https://github.com/crazyjeannot/crazyjeannot.github.io/blob/main/pdfs/CV-JB.pdf" target="_blank">[here]</a> or my academic webpage <a href="https://crazyjeannot.github.io/" target="_blank">[here]</a>
+- Check my cv <a href="https://crazyjeannot.github.io/pdfs/CV-JB.pdf" target="_blank">[here]</a> or my academic webpage <a href="https://crazyjeannot.github.io/" target="_blank">[here]</a>
